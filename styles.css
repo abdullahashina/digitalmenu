@@ -1,0 +1,47 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 10vw;
+}
+
+h2 {
+  text-align: center;
+}
+
+hr{
+    margin-top: 10vw;
+    margin-bottom: 10vw;
+    border: none;
+    height: 2px;
+    background: linear-gradient(to right, transparent, #000, transparent);
+}
+
+.btn_container {
+  text-align: center;
+}
+
+button {
+  height: 40vw;
+  width: 40vw;
+  margin: 3vw;
+  margin-left: 3vw;
+  margin-right: 3vw;
+  align-items: center;
+  text-align: center;
+  border: none;
+  font-size: 5vw;
+}
+
+.link_container{
+    text-align: center;
+}
+
+a{
+    color: black;
+    padding: 5vw;
+    text-align: center;
+    text-decoration: none;
+}
